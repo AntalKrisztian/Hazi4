@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460208095 source:c:\users\tamas\onedrive\dokumentumok\nfo\házi4\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
