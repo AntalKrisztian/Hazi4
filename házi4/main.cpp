@@ -67,6 +67,7 @@ int main()
     cout << "LKKT= " << lkkt << endl << endl;
     cout << "A ket tomb elem szorzata= " << szorzat << endl << endl;
     cout << "A ket tomb elem osszege= " << sum << endl << endl;
+    cout << "grat";
     }
     else if (n<=5){
 
